@@ -1,0 +1,6 @@
+
+export const actionTypes={
+    GET_JOB_LISTING:'GET_JOB_LISTING',
+    SET_JOBS:'SET_JOBS',
+    SET_JOB_FILTER:'SET_JOB_FILTER'
+}
